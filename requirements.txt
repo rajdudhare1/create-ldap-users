@@ -1,0 +1,5 @@
+openpyxl
+pandas
+ldap3
+secure-smtplib
+emails
